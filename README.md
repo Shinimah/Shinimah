@@ -1,4 +1,4 @@
-# Hi, My name is Maxim
+# Hi wave, My name is Maxim
 I'm a Frontend Developer
 <!--
 **Shinimah/Shinimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
