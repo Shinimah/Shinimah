@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## My name is Maxim, and I am a Frontend Developer
 <!--
 **Shinimah/Shinimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
