@@ -1,5 +1,5 @@
 # Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-I'm a Frontend Developer
+I'm Maxim
 <!--
 **Shinimah/Shinimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
